@@ -1,0 +1,15 @@
+[package]
+name = "eyecatch-studio"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1"
+eframe = { version = "0.37", default-features = false, features = ["default_fonts", "system_fonts", "glow", "x11", "wayland", "__screenshot"] }
+image = { version = "0.25", default-features = false, features = ["png", "jpeg", "webp"] }
+resvg = "0.50"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+
+[profile.dev]
+debug = 0

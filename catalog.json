@@ -1,0 +1,762 @@
+[
+  {
+    "id": "platformio",
+    "name": "PlatformIO",
+    "group": "Embedded",
+    "asset": "assets/platformio.png",
+    "background": "#F3E8DC",
+    "foreground": null,
+    "scale": 1.0,
+    "source": "https://raw.githubusercontent.com/platformio/platformio-docs/a6877ce0ad0ef49bde46ee3742e53eec2ae40117/_static/images/platformio-logo.png"
+  },
+  {
+    "id": "kicad",
+    "name": "KiCad",
+    "group": "Design",
+    "asset": "assets/kicad.svg",
+    "background": "#E5ECF3",
+    "foreground": null,
+    "scale": 1.0,
+    "source": "https://raw.githubusercontent.com/KiCad/kicad-website/84af11497fe9269603f212f55e50ecdeda05b618/static/img/kicad_logo_paths.svg"
+  },
+  {
+    "id": "rust",
+    "name": "Rust",
+    "group": "Languages",
+    "asset": "assets/rust.svg",
+    "background": "#F0D9CB",
+    "foreground": null,
+    "scale": 1.0,
+    "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/rust/rust-original.svg"
+  },
+  {
+    "id": "python",
+    "name": "Python",
+    "group": "Languages",
+    "asset": "assets/python.svg",
+    "background": "#EEF0F4",
+    "foreground": null,
+    "scale": 1.0,
+    "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/python/python-original-wordmark.svg"
+  },
+  {
+    "id": "cplusplus",
+    "name": "C++",
+    "group": "Languages",
+    "asset": "assets/cplusplus.svg",
+    "background": "#E4EDF6",
+    "foreground": null,
+    "scale": 1.0,
+    "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/cplusplus/cplusplus-original.svg"
+  },
+  {
+    "id": "c",
+    "name": "C",
+    "group": "Languages",
+    "asset": "assets/c.svg",
+    "background": "#233346",
+    "foreground": null,
+    "scale": 1.0,
+    "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/c/c-original.svg"
+  },
+  {
+    "id": "typescript",
+    "name": "TypeScript",
+    "group": "Languages",
+    "asset": "assets/typescript.svg",
+    "background": "#EDF0F7",
+    "foreground": null,
+    "scale": 1.0,
+    "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/typescript/typescript-original.svg"
+  },
+  {
+    "id": "javascript",
+    "name": "JavaScript",
+    "group": "Languages",
+    "asset": "assets/javascript.svg",
+    "background": "#222831",
+    "foreground": null,
+    "scale": 1.0,
+    "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/javascript/javascript-original.svg"
+  },
+  {
+    "id": "arduino",
+    "name": "Arduino",
+    "group": "Embedded",
+    "asset": "assets/arduino.svg",
+    "background": "#E8F3F1",
+    "foreground": null,
+    "scale": 1.0,
+    "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/arduino/arduino-original-wordmark.svg"
+  },
+  {
+    "id": "cmake",
+    "name": "CMake",
+    "group": "Embedded",
+    "asset": "assets/cmake.svg",
+    "background": "#ECEFF4",
+    "foreground": null,
+    "scale": 1.0,
+    "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/cmake/cmake-original-wordmark.svg"
+  },
+  {
+    "id": "raspberrypi",
+    "name": "Raspberry Pi",
+    "group": "Embedded",
+    "asset": "assets/raspberrypi.svg",
+    "background": "#F3E7EA",
+    "foreground": null,
+    "scale": 1.0,
+    "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/raspberrypi/raspberrypi-original-wordmark.svg"
+  },
+  {
+    "id": "ros",
+    "name": "ROS",
+    "group": "Robotics",
+    "asset": "assets/ros.svg",
+    "background": "#E5EAF1",
+    "foreground": null,
+    "scale": 1.0,
+    "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/ros/ros-original-wordmark.svg"
+  },
+  {
+    "id": "gazebo",
+    "name": "Gazebo",
+    "group": "Robotics",
+    "asset": "assets/gazebo.svg",
+    "background": "#EDE9E2",
+    "foreground": null,
+    "scale": 1.0,
+    "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/gazebo/gazebo-original-wordmark.svg"
+  },
+  {
+    "id": "opencv",
+    "name": "OpenCV",
+    "group": "Robotics",
+    "asset": "assets/opencv.svg",
+    "background": "#F0F2E8",
+    "foreground": null,
+    "scale": 1.0,
+    "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/opencv/opencv-original-wordmark.svg"
+  },
+  {
+    "id": "matlab",
+    "name": "MATLAB",
+    "group": "Design",
+    "asset": "assets/matlab.svg",
+    "background": "#DCE8F1",
+    "foreground": null,
+    "scale": 1.0,
+    "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/matlab/matlab-original.svg"
+  },
+  {
+    "id": "fusion",
+    "name": "Autodesk Fusion",
+    "group": "Design",
+    "asset": "assets/fusion.svg",
+    "background": "#F3E5DA",
+    "foreground": null,
+    "scale": 1.0,
+    "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/fusion/fusion-original.svg"
+  },
+  {
+    "id": "blender",
+    "name": "Blender",
+    "group": "Design",
+    "asset": "assets/blender.svg",
+    "background": "#E6EAF0",
+    "foreground": null,
+    "scale": 1.0,
+    "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/blender/blender-original-wordmark.svg"
+  },
+  {
+    "id": "godot",
+    "name": "Godot",
+    "group": "Design",
+    "asset": "assets/godot.svg",
+    "background": "#E3EBF2",
+    "foreground": null,
+    "scale": 1.0,
+    "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/godot/godot-original-wordmark.svg"
+  },
+  {
+    "id": "ubuntu",
+    "name": "Ubuntu",
+    "group": "Tools",
+    "asset": "assets/ubuntu.svg",
+    "background": "#F3E6DF",
+    "foreground": null,
+    "scale": 1.0,
+    "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/ubuntu/ubuntu-original-wordmark.svg"
+  },
+  {
+    "id": "linux",
+    "name": "Linux",
+    "group": "Tools",
+    "asset": "assets/linux.svg",
+    "background": "#E1EBE8",
+    "foreground": null,
+    "scale": 1.0,
+    "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/linux/linux-original.svg"
+  },
+  {
+    "id": "git",
+    "name": "Git",
+    "group": "Tools",
+    "asset": "assets/git.svg",
+    "background": "#F2E6DF",
+    "foreground": null,
+    "scale": 1.0,
+    "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/git/git-original-wordmark.svg"
+  },
+  {
+    "id": "github",
+    "name": "GitHub",
+    "group": "Tools",
+    "asset": "assets/github.svg",
+    "background": "#E6E3ED",
+    "foreground": null,
+    "scale": 1.0,
+    "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/github/github-original-wordmark.svg"
+  },
+  {
+    "id": "vscode",
+    "name": "Visual Studio Code",
+    "group": "Tools",
+    "asset": "assets/vscode.svg",
+    "background": "#E5ECF4",
+    "foreground": null,
+    "scale": 1.0,
+    "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/vscode/vscode-original-wordmark.svg"
+  },
+  {
+    "id": "docker",
+    "name": "Docker",
+    "group": "Tools",
+    "asset": "assets/docker.svg",
+    "background": "#E0EDF1",
+    "foreground": null,
+    "scale": 1.0,
+    "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/docker/docker-original-wordmark.svg"
+  },
+  {
+    "id": "astro",
+    "name": "Astro",
+    "group": "Web",
+    "asset": "assets/astro.svg",
+    "background": "#EEE8F4",
+    "foreground": null,
+    "scale": 1.0,
+    "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/astro/astro-original-wordmark.svg"
+  },
+  {
+    "id": "react",
+    "name": "React",
+    "group": "Web",
+    "asset": "assets/react.svg",
+    "background": "#192B3B",
+    "foreground": null,
+    "scale": 1.0,
+    "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/react/react-original-wordmark.svg"
+  },
+  {
+    "id": "tailwindcss",
+    "name": "Tailwind CSS",
+    "group": "Web",
+    "asset": "assets/tailwindcss.svg",
+    "background": "#173344",
+    "foreground": null,
+    "scale": 1.0,
+    "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/tailwindcss/tailwindcss-original-wordmark.svg"
+  },
+  {
+    "id": "cloudflare",
+    "name": "Cloudflare",
+    "group": "Web",
+    "asset": "assets/cloudflare.svg",
+    "background": "#F4EBDB",
+    "foreground": null,
+    "scale": 1.0,
+    "source": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/cloudflare/cloudflare-original-wordmark.svg"
+  },
+  {
+    "id": "topic-cog-1",
+    "name": "歯車 / 濃色",
+    "group": "Topics",
+    "asset": "assets/icon-cog.svg",
+    "background": "#203C50",
+    "foreground": "#DCECF1",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/cog.svg"
+  },
+  {
+    "id": "topic-cog-2",
+    "name": "歯車 / 淡色",
+    "group": "Topics",
+    "asset": "assets/icon-cog.svg",
+    "background": "#DCE9E1",
+    "foreground": "#315848",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/cog.svg"
+  },
+  {
+    "id": "topic-settings-2-1",
+    "name": "機構 / 淡色",
+    "group": "Topics",
+    "asset": "assets/icon-settings-2.svg",
+    "background": "#E5DFD0",
+    "foreground": "#514B40",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/settings-2.svg"
+  },
+  {
+    "id": "topic-settings-2-2",
+    "name": "機構 / 濃色",
+    "group": "Topics",
+    "asset": "assets/icon-settings-2.svg",
+    "background": "#593A32",
+    "foreground": "#F7E6D6",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/settings-2.svg"
+  },
+  {
+    "id": "topic-circuit-board-1",
+    "name": "回路設計 / 濃色",
+    "group": "Topics",
+    "asset": "assets/icon-circuit-board.svg",
+    "background": "#42374D",
+    "foreground": "#F0E2F0",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/circuit-board.svg"
+  },
+  {
+    "id": "topic-circuit-board-2",
+    "name": "回路設計 / 淡色",
+    "group": "Topics",
+    "asset": "assets/icon-circuit-board.svg",
+    "background": "#DEE7F0",
+    "foreground": "#36526F",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/circuit-board.svg"
+  },
+  {
+    "id": "topic-cpu-1",
+    "name": "マイコン / 淡色",
+    "group": "Topics",
+    "asset": "assets/icon-cpu.svg",
+    "background": "#DCE9E1",
+    "foreground": "#315848",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/cpu.svg"
+  },
+  {
+    "id": "topic-cpu-2",
+    "name": "マイコン / 濃色",
+    "group": "Topics",
+    "asset": "assets/icon-cpu.svg",
+    "background": "#203C50",
+    "foreground": "#DCECF1",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/cpu.svg"
+  },
+  {
+    "id": "topic-cable-1",
+    "name": "配線 / 濃色",
+    "group": "Topics",
+    "asset": "assets/icon-cable.svg",
+    "background": "#593A32",
+    "foreground": "#F7E6D6",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/cable.svg"
+  },
+  {
+    "id": "topic-cable-2",
+    "name": "配線 / 淡色",
+    "group": "Topics",
+    "asset": "assets/icon-cable.svg",
+    "background": "#E5DFD0",
+    "foreground": "#514B40",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/cable.svg"
+  },
+  {
+    "id": "topic-network-1",
+    "name": "CAN・ネットワーク / 淡色",
+    "group": "Topics",
+    "asset": "assets/icon-network.svg",
+    "background": "#DEE7F0",
+    "foreground": "#36526F",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/network.svg"
+  },
+  {
+    "id": "topic-network-2",
+    "name": "CAN・ネットワーク / 濃色",
+    "group": "Topics",
+    "asset": "assets/icon-network.svg",
+    "background": "#42374D",
+    "foreground": "#F0E2F0",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/network.svg"
+  },
+  {
+    "id": "topic-radio-1",
+    "name": "無線通信 / 濃色",
+    "group": "Topics",
+    "asset": "assets/icon-radio.svg",
+    "background": "#203C50",
+    "foreground": "#DCECF1",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/radio.svg"
+  },
+  {
+    "id": "topic-radio-2",
+    "name": "無線通信 / 淡色",
+    "group": "Topics",
+    "asset": "assets/icon-radio.svg",
+    "background": "#DCE9E1",
+    "foreground": "#315848",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/radio.svg"
+  },
+  {
+    "id": "topic-usb-1",
+    "name": "USB・シリアル通信 / 淡色",
+    "group": "Topics",
+    "asset": "assets/icon-usb.svg",
+    "background": "#E5DFD0",
+    "foreground": "#514B40",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/usb.svg"
+  },
+  {
+    "id": "topic-usb-2",
+    "name": "USB・シリアル通信 / 濃色",
+    "group": "Topics",
+    "asset": "assets/icon-usb.svg",
+    "background": "#593A32",
+    "foreground": "#F7E6D6",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/usb.svg"
+  },
+  {
+    "id": "topic-activity-1",
+    "name": "PID・制御 / 濃色",
+    "group": "Topics",
+    "asset": "assets/icon-activity.svg",
+    "background": "#42374D",
+    "foreground": "#F0E2F0",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/activity.svg"
+  },
+  {
+    "id": "topic-activity-2",
+    "name": "PID・制御 / 淡色",
+    "group": "Topics",
+    "asset": "assets/icon-activity.svg",
+    "background": "#DEE7F0",
+    "foreground": "#36526F",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/activity.svg"
+  },
+  {
+    "id": "topic-gauge-1",
+    "name": "モータ制御 / 淡色",
+    "group": "Topics",
+    "asset": "assets/icon-gauge.svg",
+    "background": "#DCE9E1",
+    "foreground": "#315848",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/gauge.svg"
+  },
+  {
+    "id": "topic-gauge-2",
+    "name": "モータ制御 / 濃色",
+    "group": "Topics",
+    "asset": "assets/icon-gauge.svg",
+    "background": "#203C50",
+    "foreground": "#DCECF1",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/gauge.svg"
+  },
+  {
+    "id": "topic-route-1",
+    "name": "経路生成 / 濃色",
+    "group": "Topics",
+    "asset": "assets/icon-route.svg",
+    "background": "#593A32",
+    "foreground": "#F7E6D6",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/route.svg"
+  },
+  {
+    "id": "topic-route-2",
+    "name": "経路生成 / 淡色",
+    "group": "Topics",
+    "asset": "assets/icon-route.svg",
+    "background": "#E5DFD0",
+    "foreground": "#514B40",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/route.svg"
+  },
+  {
+    "id": "topic-map-pin-1",
+    "name": "自己位置推定 / 淡色",
+    "group": "Topics",
+    "asset": "assets/icon-map-pin.svg",
+    "background": "#DEE7F0",
+    "foreground": "#36526F",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/map-pin.svg"
+  },
+  {
+    "id": "topic-map-pin-2",
+    "name": "自己位置推定 / 濃色",
+    "group": "Topics",
+    "asset": "assets/icon-map-pin.svg",
+    "background": "#42374D",
+    "foreground": "#F0E2F0",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/map-pin.svg"
+  },
+  {
+    "id": "topic-scan-line-1",
+    "name": "センサ / 濃色",
+    "group": "Topics",
+    "asset": "assets/icon-scan-line.svg",
+    "background": "#203C50",
+    "foreground": "#DCECF1",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/scan-line.svg"
+  },
+  {
+    "id": "topic-scan-line-2",
+    "name": "センサ / 淡色",
+    "group": "Topics",
+    "asset": "assets/icon-scan-line.svg",
+    "background": "#DCE9E1",
+    "foreground": "#315848",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/scan-line.svg"
+  },
+  {
+    "id": "topic-camera-1",
+    "name": "画像処理 / 淡色",
+    "group": "Topics",
+    "asset": "assets/icon-camera.svg",
+    "background": "#E5DFD0",
+    "foreground": "#514B40",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/camera.svg"
+  },
+  {
+    "id": "topic-camera-2",
+    "name": "画像処理 / 濃色",
+    "group": "Topics",
+    "asset": "assets/icon-camera.svg",
+    "background": "#593A32",
+    "foreground": "#F7E6D6",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/camera.svg"
+  },
+  {
+    "id": "topic-box-1",
+    "name": "3Dプリント / 濃色",
+    "group": "Topics",
+    "asset": "assets/icon-box.svg",
+    "background": "#42374D",
+    "foreground": "#F0E2F0",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/box.svg"
+  },
+  {
+    "id": "topic-box-2",
+    "name": "3Dプリント / 淡色",
+    "group": "Topics",
+    "asset": "assets/icon-box.svg",
+    "background": "#DEE7F0",
+    "foreground": "#36526F",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/box.svg"
+  },
+  {
+    "id": "topic-drill-1",
+    "name": "CNC加工 / 淡色",
+    "group": "Topics",
+    "asset": "assets/icon-drill.svg",
+    "background": "#DCE9E1",
+    "foreground": "#315848",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/drill.svg"
+  },
+  {
+    "id": "topic-drill-2",
+    "name": "CNC加工 / 濃色",
+    "group": "Topics",
+    "asset": "assets/icon-drill.svg",
+    "background": "#203C50",
+    "foreground": "#DCECF1",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/drill.svg"
+  },
+  {
+    "id": "topic-wrench-1",
+    "name": "組み立て / 濃色",
+    "group": "Topics",
+    "asset": "assets/icon-wrench.svg",
+    "background": "#593A32",
+    "foreground": "#F7E6D6",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/wrench.svg"
+  },
+  {
+    "id": "topic-wrench-2",
+    "name": "組み立て / 淡色",
+    "group": "Topics",
+    "asset": "assets/icon-wrench.svg",
+    "background": "#E5DFD0",
+    "foreground": "#514B40",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/wrench.svg"
+  },
+  {
+    "id": "topic-wind-1",
+    "name": "空気圧 / 淡色",
+    "group": "Topics",
+    "asset": "assets/icon-wind.svg",
+    "background": "#DEE7F0",
+    "foreground": "#36526F",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/wind.svg"
+  },
+  {
+    "id": "topic-wind-2",
+    "name": "空気圧 / 濃色",
+    "group": "Topics",
+    "asset": "assets/icon-wind.svg",
+    "background": "#42374D",
+    "foreground": "#F0E2F0",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/wind.svg"
+  },
+  {
+    "id": "topic-fan-1",
+    "name": "真空吸着・送風 / 濃色",
+    "group": "Topics",
+    "asset": "assets/icon-fan.svg",
+    "background": "#203C50",
+    "foreground": "#DCECF1",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/fan.svg"
+  },
+  {
+    "id": "topic-fan-2",
+    "name": "真空吸着・送風 / 淡色",
+    "group": "Topics",
+    "asset": "assets/icon-fan.svg",
+    "background": "#DCE9E1",
+    "foreground": "#315848",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/fan.svg"
+  },
+  {
+    "id": "topic-battery-charging-1",
+    "name": "電源回路 / 淡色",
+    "group": "Topics",
+    "asset": "assets/icon-battery-charging.svg",
+    "background": "#E5DFD0",
+    "foreground": "#514B40",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/battery-charging.svg"
+  },
+  {
+    "id": "topic-battery-charging-2",
+    "name": "電源回路 / 濃色",
+    "group": "Topics",
+    "asset": "assets/icon-battery-charging.svg",
+    "background": "#593A32",
+    "foreground": "#F7E6D6",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/battery-charging.svg"
+  },
+  {
+    "id": "topic-plug-zap-1",
+    "name": "電気工作 / 濃色",
+    "group": "Topics",
+    "asset": "assets/icon-plug-zap.svg",
+    "background": "#42374D",
+    "foreground": "#F0E2F0",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/plug-zap.svg"
+  },
+  {
+    "id": "topic-plug-zap-2",
+    "name": "電気工作 / 淡色",
+    "group": "Topics",
+    "asset": "assets/icon-plug-zap.svg",
+    "background": "#DEE7F0",
+    "foreground": "#36526F",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/plug-zap.svg"
+  },
+  {
+    "id": "topic-terminal-1",
+    "name": "プログラミング / 淡色",
+    "group": "Topics",
+    "asset": "assets/icon-terminal.svg",
+    "background": "#DCE9E1",
+    "foreground": "#315848",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/terminal.svg"
+  },
+  {
+    "id": "topic-terminal-2",
+    "name": "プログラミング / 濃色",
+    "group": "Topics",
+    "asset": "assets/icon-terminal.svg",
+    "background": "#203C50",
+    "foreground": "#DCECF1",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/terminal.svg"
+  },
+  {
+    "id": "topic-flask-conical-1",
+    "name": "実験 / 濃色",
+    "group": "Topics",
+    "asset": "assets/icon-flask-conical.svg",
+    "background": "#593A32",
+    "foreground": "#F7E6D6",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/flask-conical.svg"
+  },
+  {
+    "id": "topic-flask-conical-2",
+    "name": "実験 / 淡色",
+    "group": "Topics",
+    "asset": "assets/icon-flask-conical.svg",
+    "background": "#E5DFD0",
+    "foreground": "#514B40",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/flask-conical.svg"
+  },
+  {
+    "id": "topic-chart-no-axes-combined-1",
+    "name": "計測 / 淡色",
+    "group": "Topics",
+    "asset": "assets/icon-chart-no-axes-combined.svg",
+    "background": "#DEE7F0",
+    "foreground": "#36526F",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/chart-no-axes-combined.svg"
+  },
+  {
+    "id": "topic-chart-no-axes-combined-2",
+    "name": "計測 / 濃色",
+    "group": "Topics",
+    "asset": "assets/icon-chart-no-axes-combined.svg",
+    "background": "#42374D",
+    "foreground": "#F0E2F0",
+    "scale": 0.88,
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/chart-no-axes-combined.svg"
+  }
+]

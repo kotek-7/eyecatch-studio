@@ -39,11 +39,12 @@ cargo run --release --locked -- --export-all /path/to/output
 - `src/render.rs`: SVG読み込み、余白除去、合成、PNG出力。
 - `src/main.rs`: egui画面と一括出力コマンド。
 
-同梱プリセットは技術28種類と汎用アイコン24種類×2配色の76枚です。
+同梱プリセットは技術30種類と汎用アイコン24種類×2配色の78枚です。
 
 技術マークは主にDeviconの `original-wordmark` を優先し、なければ `original` を採用しています。追加の技術名は描画せず、元の色を保持します。汎用アイコンはLucideを使用しています。各商標はそれぞれの権利者に帰属します。素材の出典は各プリセットの `source` に記録しています。
 
 - KiCad・PlatformIOは各プロジェクトの公式リポジトリから取得。出典は `catalog.json` に記録。
+- InventorはAutodeskを出典とするWikimedia CommonsのSVG、OnshapeはPTC公式ブランド素材の白抜き版を使用。ZIP内の素材は出典URLのフラグメントに格納先を記録。
 - [Devicon](https://github.com/devicons/devicon) — `assets/DEVICON-LICENSE`
 - [Lucide](https://github.com/lucide-icons/lucide) — `assets/LUCIDE-LICENSE`
 - [eframe](https://docs.rs/eframe/0.37.0/eframe/)

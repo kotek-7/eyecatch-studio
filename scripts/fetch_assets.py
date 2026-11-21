@@ -1,6 +1,9 @@
 """Restore missing assets from the pinned URLs in catalog.json; keep existing files."""
 import concurrent.futures
 import json
+import io
+import zipfile
+from urllib.parse import unquote
 from pathlib import Path
 import urllib.request
 
@@ -19,9 +22,13 @@ def download(job):
         raise ValueError(f'Asset outside assets/: {name}')
     if target.exists():
         return
+    url, _, member = url.partition('#')
     request = urllib.request.Request(url, headers={'User-Agent': 'eyecatch-studio'})
     with urllib.request.urlopen(request, timeout=45) as response:
         data = response.read()
+    if member:
+        with zipfile.ZipFile(io.BytesIO(data)) as archive:
+            data = archive.read(unquote(member))
     target.parent.mkdir(parents=True, exist_ok=True)
     target.write_bytes(data)
     print(f'Downloaded {name}')

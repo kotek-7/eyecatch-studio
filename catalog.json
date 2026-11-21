@@ -758,5 +758,25 @@
     "foreground": "#F0E2F0",
     "scale": 0.88,
     "source": "https://raw.githubusercontent.com/lucide-icons/lucide/c1a02a04d4f3f7049d44567d62b8b06cff0b9103/icons/chart-no-axes-combined.svg"
+  },
+  {
+    "id": "inventor",
+    "name": "Autodesk Inventor",
+    "group": "Design",
+    "asset": "assets/inventor.svg",
+    "background": "#F0E7D8",
+    "foreground": null,
+    "scale": 1.0,
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/81/Autodesk_Inventor_Logo.svg"
+  },
+  {
+    "id": "onshape",
+    "name": "Onshape",
+    "group": "Design",
+    "asset": "assets/onshape.svg",
+    "background": "#173D32",
+    "foreground": null,
+    "scale": 1.0,
+    "source": "https://ptc-p-001.sitecorecontenthub.cloud/api/public/content/6363666d113247c1b85d75737bba95b0?v=bd622b9d#onshape%20PARENT%20logo/RGB/SVG/onshape-logo-RGB_KO.svg"
   }
 ]
